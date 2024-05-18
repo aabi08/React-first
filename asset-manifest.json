@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-first/static/css/main.a7936cfa.chunk.css",
+    "main.js": "/React-first/static/js/main.6183c24c.chunk.js",
+    "main.js.map": "/React-first/static/js/main.6183c24c.chunk.js.map",
+    "runtime~main.js": "/React-first/static/js/runtime~main.782d747c.js",
+    "runtime~main.js.map": "/React-first/static/js/runtime~main.782d747c.js.map",
+    "static/js/2.e707d05b.chunk.js": "/React-first/static/js/2.e707d05b.chunk.js",
+    "static/js/2.e707d05b.chunk.js.map": "/React-first/static/js/2.e707d05b.chunk.js.map",
+    "static/js/3.cb72f06f.chunk.js": "/React-first/static/js/3.cb72f06f.chunk.js",
+    "static/js/3.cb72f06f.chunk.js.map": "/React-first/static/js/3.cb72f06f.chunk.js.map",
+    "index.html": "/React-first/index.html",
+    "precache-manifest.66ebb3297972084d4d3bc00036ba7cdf.js": "/React-first/precache-manifest.66ebb3297972084d4d3bc00036ba7cdf.js",
+    "service-worker.js": "/React-first/service-worker.js",
+    "static/css/main.a7936cfa.chunk.css.map": "/React-first/static/css/main.a7936cfa.chunk.css.map",
+    "static/media/Screenshot 2024-05-16 122522.png": "/React-first/static/media/Screenshot 2024-05-16 122522.82db58df.png",
+    "static/media/Screenshot 2024-05-16 124911.png": "/React-first/static/media/Screenshot 2024-05-16 124911.0840f9c7.png",
+    "static/media/Screenshot 2024-05-16 125006.png": "/React-first/static/media/Screenshot 2024-05-16 125006.5b058c58.png",
+    "static/media/logo.svg": "/React-first/static/media/logo.06e73328.svg"
+  }
+}
