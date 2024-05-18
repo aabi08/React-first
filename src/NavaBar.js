@@ -14,7 +14,7 @@ const NavBar= () => {
     return (<nav className="nav"> 
             
             <div className="navi"> 
-            <Link className="zdiv" to="/">
+            <Link className="zdiv" to="/React-first">
             <img src={Icon0}></img>
             <p>SenseCloud</p>
             </Link>

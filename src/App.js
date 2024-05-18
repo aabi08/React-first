@@ -17,8 +17,9 @@ function App() {
     // </>
     <Router>
       <NavBar></NavBar>
+      
       <Routes>
-        <Route path='/' element={<><Navbar2></Navbar2><Content></Content></>}>
+        <Route path='/React-first' element={<><Navbar2></Navbar2><Content></Content></>}>
           
         </Route>
         <Route path='/datamap' element={<DM></DM>}>
