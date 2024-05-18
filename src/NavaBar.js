@@ -1,3 +1,4 @@
+import React from 'react'
 import "./NavBar.css"
 import SenseCloudIcon from './Screenshot 2024-05-16 112121.png';
 import DatamapIcon from './image1.png';

@@ -1,4 +1,4 @@
-
+import React from 'react'
 import './content.css'
 
 const botbox = ({url,title,description,icon}) =>{

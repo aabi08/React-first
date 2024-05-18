@@ -1,4 +1,4 @@
-
+import React from 'react'
 import './datamap.css'
 import Boxes from './boxes.js'
 import image13 from './image13.png'

@@ -1,3 +1,4 @@
+import React from 'react'
 import Bar from './bar.js'
 import DB from './dragbox.js'
 

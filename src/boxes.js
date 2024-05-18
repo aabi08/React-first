@@ -1,4 +1,4 @@
-
+import React from 'react'
 import './datamap.css'
 import image13 from './image13.png'
 import image14 from './image14.png'

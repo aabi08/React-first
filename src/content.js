@@ -1,3 +1,4 @@
+import React from 'react'
 import './content.css'
 import hi from './Screenshot 2024-05-16 122522.png'
 import lbox from './Screenshot 2024-05-16 124911.png'

@@ -1,3 +1,4 @@
+import React from 'react'
 import db from './image12.png'
 
 const dragbox= () => {

@@ -1,3 +1,4 @@
+import React from 'react'
 import './navbar2.css'
 import image8 from './image8.png'
 import image9 from './image9.png'
